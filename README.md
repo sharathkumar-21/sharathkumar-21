@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharath Kumar</h1>
-<h3 align="center">A passionate AI & Machine Learning Engineer from India</h3>
+<h3 align="center">A passionate Data Scientist, AI & Machine Learning Engineer from India</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - 💡 Interested in Machine Learning, Data Science & AI  
 - 📊 Currently doing internship in Data Science & AIML  
 - 🌱 Learning: Deep Learning, NLP, Computer Vision  
-- 🎯 Goal: To become an AI Engineer  
+- 🎯 Goal: To become an Data Scientist 
 
 ---
 
@@ -30,11 +30,7 @@
 - VS Code  
 
 ---
-
-## 📂 Projects
-- 🔹 Heart Disease Prediction using ML  
-- 🔹 K-Means Clustering Model  
-- 🔹 Data Analysis Projects  
+ 
 
 ---
 
@@ -47,10 +43,5 @@
 ---
 
 ## 🌐 Connect with me
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK  
-
----
-
-## ⚡ Fun Fact
-I love solving real-world problems using AI 🚀
+- 📧 Email: sharath7506@gmail.com  
+- 💼 LinkedIn:www.linkedin.com/in/s-r-sharath-kumar 
